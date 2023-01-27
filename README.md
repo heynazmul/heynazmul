@@ -37,11 +37,8 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 
 
 ![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
-
+[![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](https://git.io/streak-stats align=right)
 ![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
-
-[![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](https://git.io/streak-stats)
-
 ![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub metrics](https://metrics.lecoq.io/knownazmul)  

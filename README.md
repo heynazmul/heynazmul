@@ -30,7 +30,7 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=react)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=github-compact)](https://git.io/streak-stats)
 
 ![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 

@@ -26,7 +26,7 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=react)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
 

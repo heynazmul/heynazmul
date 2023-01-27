@@ -1,6 +1,7 @@
 <h3 align="center"> Hello there 👋, I'm Nazmul Hossain</h3>
 <h4 align="center"> Full-Stack Web Developer</h4>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 ## About ME:
 I’m a web developer specifically a full-stack developer. I have a positive outlook and am always willing to learn new things.
@@ -39,9 +40,9 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 ![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
 [![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](https://git.io/streak-stats align=right)
 ![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
+![Nazmul's metrics](https://metrics.lecoq.io/knownazmul align=right) 
 ![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub metrics](https://metrics.lecoq.io/knownazmul)  
+ 
 
 
 

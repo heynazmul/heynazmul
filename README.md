@@ -28,7 +28,7 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 
 ![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
 
-![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue-dark)
+![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
 
 [![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](https://git.io/streak-stats)
 

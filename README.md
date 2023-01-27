@@ -41,8 +41,8 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 [![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](align=right)
 ![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
 
-![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Nazmul's metrics](https://metrics.lecoq.io/knownazmul align=top)
+![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact align=top)
+![Nazmul's metrics](https://metrics.lecoq.io/knownazmul)
  
 
 

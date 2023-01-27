@@ -1,4 +1,4 @@
-<h3 align="center"> Hello there 👋, I'm Din Islam Rajin</h3>
+<h3 align="center"> Hello there 👋, I'm Nazmul Hossain</h3>
 <h4 align="center"> Full-Stack Web Developer</h4>
 
 ## About ME:
@@ -7,7 +7,7 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about React.JS 
-- 📫 How to reach me: din.islam.rajin572@gmail.com 
+- 📫 How to reach me: heynazmulhossain@gmail.com 
 
 <h2>💻 Skills And Technologies:</h2>
 
@@ -17,24 +17,24 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 
 <h2>Connect with me: </h2>
 <div align="center">
-  <a href="https://github.com/rajin572/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/knownazmul/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/din-islam-rajin//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
     <a href="https://www.facebook.com/dirrazin.69"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-      <a href="https://codepen.io/https://codepen.io/rajin572"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
+      <a href="https://codepen.io/https://codepen.io/knownazmul"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
 
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajin572&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=react)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajin572&theme=react)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajin572&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=react&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajin572&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub metrics](https://metrics.lecoq.io/rajin572)  
+![GitHub metrics](https://metrics.lecoq.io/knownazmul)  
 
 
 

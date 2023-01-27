@@ -26,13 +26,13 @@ I’m a web developer specifically a full-stack developer. I have a strong knowl
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
+![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
+![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue)](https://git.io/streak-stats)
+[![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue)](https://git.io/streak-stats)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub metrics](https://metrics.lecoq.io/knownazmul)  
 

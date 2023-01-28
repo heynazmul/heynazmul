@@ -10,7 +10,7 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 - 🔭 I’m currently working on Full-Stack Development 
 - 🌱 I’m currently learning php 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about React.JS 
+- 💬 Ask me about Php 
 - 📫 How to reach me: heynazmulhossain@gmail.com 
 <h2>💻 Skills And Technologies:</h2>
 

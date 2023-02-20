@@ -30,21 +30,21 @@ I’m a web developer specifically a full-stack developer. I have a positive out
 
 <h2>Connect with me: </h2>
 <div align="center">
-  <a href="https://github.com/knownazmul/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/knownazmulhossain//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+  <a href="https://github.com/heynazmul/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/heynazmul//"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
     <a href="https://www.facebook.com/nazmulhossaindev"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
-      <a href="https://codepen.io/knownazmul"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
+      <a href="https://codepen.io/heynazmul"><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen'></a>
  </div>
 
 <br/>
 
 
-![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=knownazmul&show_icons=true&theme=vue-dark)
-[![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=knownazmul&theme=vue-dark)](https://git.io/streak-stats)
-![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=knownazmul&theme=vue)
+![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=heynazmul&show_icons=true&theme=vue-dark)
+[![Nazmul's Streak](https://github-readme-streak-stats.herokuapp.com?user=heynazmul&theme=vue-dark)](https://git.io/streak-stats)
+![Nazmul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heynazmul&theme=vue)
   
-![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knownazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Nazmul's metrics](https://metrics.lecoq.io/knownazmul)
+![Nazmul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heynazmul&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Nazmul's metrics](https://metrics.lecoq.io/heynazmul)
  
 
 

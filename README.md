@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <a href="https://app.daily.dev/webdevmaruf"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="Nazmul Dev Card"/></a>
+  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="Nazmul Dev Card"/></a>
   <a href="https://leetcode.com/Nazmul20/">
   <img src="https://leetcard.jacoblin.cool/nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
   </a>

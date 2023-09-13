@@ -8,7 +8,7 @@
 <div align="center">
 <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=e6w" width="350" alt="Nazmul hossain's Dev Card"/></a>
   <a href="https://leetcode.com/Nazmul20/">
-  <img src="https://leetcard.jacoblin.cool/nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
+  <img src="https://leetcard.jacoblin.cool/nazmul20?theme=dark&font=Poppins&ext=activity" width="50%" style="margin: 5px;"/>
   </a>
 </div>
 

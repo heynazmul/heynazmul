@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="https://marufalaslam.github.io/test/git-banner.png"/>
-</div>
-
-<hr>
-
 
 <div align="center">
 <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=e6w" width="350" alt="Nazmul hossain's Dev Card"/></a>

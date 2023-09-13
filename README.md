@@ -17,19 +17,18 @@ Currently, I'm working as a Software Engineer at Jadroo E-Commerce Limited. Besi
 
 ### 😎 Skillset :
 
-Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` `Dart`
-
+Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
-Javascript Frameworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`
+Javascript Frameworks/Libraries:  `jQuery`
 
 Components and UIs: `Material UI `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
-Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
+Databases:`MySQL`
 
 Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
-Familiar with: `Redux` `Context API` `Node.js` `React Native`
+Familiar with: 
 
 Tools: `VS code` `Git GitHub `BitBucket` `CLI` `Terminal` `Vercel` `Browsers `NPM` `Chrome Dev Tool `Postman` `Netlify` `Express Generator `Web Mail` `Trello` `Jira` `Teams`
 
@@ -40,11 +39,11 @@ Tools: `VS code` `Git GitHub `BitBucket` `CLI` `Terminal` `Vercel` `Browsers `NP
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | Currently Working | Dhaka, Bangladesh |
+| 1  |   | . |  | | Dhaka, Bangladesh |
 
 
 * RWD = Responsive Web Design
-* LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
+
 
 <hr>
 

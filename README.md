@@ -1,6 +1,4 @@
 
-<div align="center">
-<a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=e6w" width="350" alt="Nazmul hossain's Dev Card"/></a>
   <a href="https://leetcode.com/Nazmul20/">
   <img src="https://leetcard.jacoblin.cool/nazmul20?theme=dark&font=Poppins&ext=activity" width="50%" style="margin: 5px;"/>
   </a>
@@ -46,10 +44,7 @@ Tools: `VS code` `Git GitHub `BitBucket` `CLI` `Terminal` `Vercel` `Browsers `NP
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
 | 1  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | Currently Working | Dhaka, Bangladesh |
-| 2  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
-| 3  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
-| 4  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
-| 5  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+
 
 * RWD = Responsive Web Design
 * LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
@@ -90,8 +85,8 @@ Tools: `VS code` `Git GitHub `BitBucket` `CLI` `Terminal` `Vercel` `Browsers `NP
 ### 🔥 My GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heynazmul&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=heynazmul&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github STat"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufAlAslam&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/> -->
 </div>
 

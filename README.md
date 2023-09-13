@@ -32,8 +32,7 @@ Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
 Familiar with: 
 
-Tools: `VS code` `Git GitHub `BitBucket` `CLI` `Terminal` `Vercel` `Browsers `NPM` `Chrome Dev Tool `Postman` `Netlify` `Express Generator `Web Mail` `Trello` `Jira` `Teams`
-
+Tools: `VS code` `Git GitHub `
 
 <hr>
 

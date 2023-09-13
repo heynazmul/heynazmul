@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" style="margin: 5px;" width="35%" alt="nazmul Dev Card"/></a>
+
+  <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Nazmul hossain's Dev Card"/></a>
   <a href="https://leetcode.com/maruf42">
   <img src="https://leetcard.jacoblin.cool/Nazmul20?theme=dark&font=Poppins&ext=activity" width="60%" style="margin: 5px;"/>
   </a>

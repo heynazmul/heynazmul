@@ -40,7 +40,7 @@ Tools: `VS code` `Git GitHub `
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  |   | . |  | | Dhaka, Bangladesh |
+| 1  | Junior Front-end Developer (intern)  | Devwavee | 1st Octber | 2023  | Running | Dhaka, Bangladesh |
 
 
 * RWD = Responsive Web Design

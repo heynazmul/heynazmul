@@ -94,9 +94,8 @@ Tools: `VS code` `Git GitHub `
   <a href="https://www.facebook.com/heynazmul/" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
-    
- ![snake gif](https://github.com/heynazmul/heynazmul/blob/output/github-contribution-grid-snake.gif)
-
   
    <br>
 </div>
+
+![snake gif](https://github.com/heynazmul/heynazmul/blob/output/github-contribution-grid-snake.gif)

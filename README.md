@@ -97,4 +97,5 @@ Tools: `VS code` `Git GitHub `
   
    <br>
 </div>
-<img src="https://github.com/heynazmul/heynazmul/blob/output/github-contribution-grid-snake.svg" style="height:100%; width:100%;>
+
+![snake gif](https://github.com/heynazmul/heynazmul/blob/output/github-contribution-grid-snake.gif)

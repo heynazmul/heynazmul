@@ -14,7 +14,7 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as a Software Engineer at Jadroo E-Commerce Limited. Besides that, I love to develop my skills in Fullstack web development (MERN). Other than that, I am a Freelance Web Developer at Fiverr where I have over 200+ different clients and more than 500 projects completed.
+Currently, I'm working as a Front-end developer intern  at Devwavee Technology. Besides that, I love to develop my skills in Fullstack web development (PHP, Laravel). Other than that, I am a Freelance Web Developer at Fiverr where I have  different clients and more than 20+ projects completed.
 
 
 ### 😎 Skillset :
@@ -24,7 +24,7 @@ CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
 Javascript Frameworks/Libraries:  `jQuery`
 
-Components and UIs: `Material UI `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
 Databases:`MySQL`
 

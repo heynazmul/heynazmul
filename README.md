@@ -45,7 +45,7 @@ Tools: `VS code` `Git GitHub `
 | 1  | Junior Front-end Developer (intern)  | Devwavee | 1st Octber  2023  | 30 December 2023 | Dhaka, Bangladesh |
 
 
-* RWD = Responsive Web Design
+* RWD = Responsive Web Design.
 
 
 <hr>
